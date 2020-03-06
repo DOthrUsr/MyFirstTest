@@ -1,1 +1,1 @@
---Literally using a .sql file format for familiar color pallette on Notepad++
+--Literally using a .sql file format for familiar color pallette on Notepad++; Im adding this line just like that from one of the IDs
