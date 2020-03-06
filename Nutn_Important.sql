@@ -1,0 +1,1 @@
+--Literally using a .sql file format for familiar color pallette on Notepad++
